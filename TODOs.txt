@@ -1,2 +1,5 @@
 -Chapter 4 : add contorl block diagramm for each state
 -Chapter 4 : Stbility analysis for each state
+
+-Chapter 5 : move inplementation and modelling/ simulation results form chapter 4 to model 5
+-Chpater 6 :test bench data
